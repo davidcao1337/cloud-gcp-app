@@ -2,9 +2,9 @@
 A basic web app that features a very simple chatbot. The bot will answer inquiries about the University of Cincinnati.
 
 ## How To Use
-1. Greet the bot
+1. Greet the bot (Hello, hi, etc.)
 2. Answer its questions
-3. Ask it questions
+3. Ask it questions (Inquiries Examples)
 4. Say "bye" to end the conversation
 
 ## Inquiries Examples
