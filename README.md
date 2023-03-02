@@ -8,7 +8,7 @@ A basic web app that features a very simple chatbot. The bot will answer inquiri
 4. Say "bye" to end the conversation
 
 ## Inquiries Examples
--Do they have a basketball team?
--Do they have a computer science program?
--Do they have a co-op program?
--How much is the in-state tuition?
+- Do they have a basketball team?
+- Do they have a computer science program?
+- Do they have a co-op program?
+- How much is the in-state tuition?
